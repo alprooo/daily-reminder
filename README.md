@@ -9,7 +9,7 @@ Feel free to **share these reminders** on your social media or with your friends
 
 ## 📂 Contents
 - **/assets** — Collection of daily reminder images in PNG format.
-- Each file is named by date for easy reference.
+
 
 ---
 
